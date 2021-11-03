@@ -5,7 +5,7 @@ A command-line software created as the final project for the Data Structures cou
 ## Team Members
 1. Stefano Christian Wiryana
 2. Christoper Luis Alexander
-3. Christiano Ekasakti Sangalan
+3. Christiano Ekasakti Sangalang
 
 ## Features
 1. View transactions
